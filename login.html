@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
+    <title>Log In</title>
+</head>
+<body>
+    <div class="container">
+        <div id="leftside"></div>
+        <div class="navbar">
+            <h1 id="welcome">Margarita Mikes!!</h1>
+            <div class="middleOfNav">
+                <a href="/index.html">
+                    <p id="Menu">Home</p>
+                </a>
+            </div>
+            <div class="middleOfNav">
+                <a href="/menu.html">
+                    <p>Menu</p>
+                </a>
+            </div>
+            <div class="middleOfNav">
+                <a href="/happyHour.html">
+                    <p>Happy Hour</p>
+                </a>
+            </div>
+            <div class="middleOfNav">
+                <a href="/feature.html">
+                    <p>Up Coming Events</p>
+                </a>
+            </div>
+            <div class="middleOfNav">
+                <a href="/login.html">
+                    <p>Log In</p>
+                </a>
+            </div>
+        </div>
+        <div id="leftside"></div>
+    </div>
+
+    <div>
+        <h1 class="pics">Sign up today to get rewards and get daily event reminders</h1>
+    </div>
+
+    <div class="logInPage">
+
+        <img src="https://images.unsplash.com/photo-1575444758702-4a6b9222336e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmFyfGVufDB8fDB8fA%3D%3D&w=1000&q=80" alt="picture of a bar at night" >
+        <div class="register">
+            <form action="/register" method="post">
+            <h2>Register</h2>
+            <p>First Name:</p>
+            <input type="text" name="first_name" id="first_name" />
+            <p>Last Name:</p>
+            <input type="text" name="last_name" id="last_name" />
+            <p>Email:</p>
+            <input type="text" name="email" id="email" />
+            <p>Password:</p>
+            <input type="password" name="password" id="password" />
+            <p>Confirm password:</p>
+            <input type="password" name="confirm_password" id="" />
+            <p><button>Register</button></p>
+        </form>
+    </div>
+    
+    <div class="login">
+        <form action="/login" method="post">
+            <h2>Log In</h2>
+            <p>Email:</p>
+            <input type="text" name="email" id="email" />
+            <p>Password:</p>
+            <input type="password" name="password" id="" />
+            <p><button>Log In</button></p>
+            <p>Already have an account sign in above</p>
+        </form>
+    </div>
+</div>
+    
+    <div class="endofpage">
+        <p><a href="/flask_app/templates/contact.html">Contact Us | Copyright © 2022 Margarita Mikes, All Rights Reserved </a></p>
+    </div>
+</body>
+</html>
