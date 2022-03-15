@@ -26,6 +26,7 @@ body{
     display:flex;
     justify-content: center;
     font-size: 75px;
+    color: white;
 }
 
 .contact{
@@ -47,13 +48,13 @@ body{
 }
 
 .countDown2{
-    color: red;
+    background-color: gray;
     display: flex;
     justify-content: space-evenly;
     font-size: 25px;
     font-weight: bold;
     border-radius: 2px;
-    border-color: red;
+    border-color: black;
     border-style: solid;
 }
 
@@ -98,9 +99,10 @@ img{
 }
 
 .leftside{
-    color: red;
+    color: black;
+    background-color: gray;
     border-radius: 2px;
-    border-color: red;
+    border-color: black;
     border-style: solid;
     padding: 20px;
 }
@@ -131,8 +133,8 @@ img{
 }
 
 .menu{
+    background-color: gray;
     border-radius: 2px;
-    border-color: red;
     border-style: solid;
 }
 
@@ -143,7 +145,6 @@ img{
 .menu_app{
     display: flex;
     justify-content: space-around;
-    color: red;
     font-size: 35px;
 
     padding: 20px;
@@ -193,9 +194,9 @@ img{
 }
 
 .rightside{
-    color: red;
+    background-color: gray;
     border-radius: 2px;
-    border-color: red;
+    border-color: black;
     border-style: solid;
     padding: 20px;
 
