@@ -4,6 +4,8 @@
 <p align="center"> We got everything from Lunch to Dinner to our famous Two tewuila Tuesdays</p>
 <p align="center">Check out our Happy Hour or up coming events</p>
 
+<hr/>
+
 <h3>Built with</h3>
 
 <p>
@@ -11,6 +13,8 @@
   CSS <br/>
   JavaScript <br/>
 </p>
+
+<hr/>
 
 <h3>Screen Shots</h3>
 
