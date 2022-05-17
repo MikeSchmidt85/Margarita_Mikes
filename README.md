@@ -1,6 +1,6 @@
 <h1 align="center">Margarita Mike's</h1>
 
-<p align="center">Get you Tacos and Tequila on at Margarita Maike's.</p>
+<p align="center">Get your Tacos and Tequila on at Margarita Maike's.</p>
 <p align="center"> We got everything from Lunch to Dinner to our famous Two tewuila Tuesdays</p>
 <p align="center">Check out our Happy Hour or up coming events</p>
 
