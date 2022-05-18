@@ -16,6 +16,14 @@
 
 <hr/>
 
+<h3>Features</h3>
+
+<p>1. You can sign up to earn rewards!!</p>
+<p>2. Contact us for questions.</p>
+<p>3. Check out our calendar and up coming events!!</p>
+
+<hr/>
+
 <h3>Screen Shots</h3>
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/89613492/168675787-ac7e7875-fda9-4087-8f7a-ba7fe51e0c24.png)
